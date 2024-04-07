@@ -1,0 +1,11 @@
+<mod displayName="KisuVoiceReplacer" unique="KisuVoiceReplacer" description="Replaces your empire's voice with one of your choosing." installerSystemVersion="1.0.1.0" hasCustomInstaller="true" dllsBuild="2.5.20">
+	<component unique="KisuVoiceBard" displayName="KisuVoiceBard" description="Replaces your empire voice with Bard." game="GalacticAdventures" defaultChecked="false">KisuVoiceBard.package</component>
+	<component unique="KisuVoiceDiplomat" displayName="KisuVoiceDiplomat" description="Replaces your empire voice with Diplomat." game="GalacticAdventures" defaultChecked="false">KisuVoiceDiplomat.package</component>
+	<component unique="KisuVoiceEcologist" displayName="KisuVoiceEcologist" description="Replaces your empire voice with Ecologist." game="GalacticAdventures" defaultChecked="false">KisuVoiceEcologist.package</component>
+	<component unique="KisuVoiceGrox" displayName="KisuVoiceGrox" description="Replaces your empire voice with Grox." game="GalacticAdventures" defaultChecked="false">KisuVoiceGrox.package</component>
+	<component unique="KisuVoiceScientist" displayName="KisuVoiceScientist" description="Replaces your empire voice with Scientist." game="GalacticAdventures" defaultChecked="false">KisuVoiceScientist.package</component>
+	<component unique="KisuVoiceShaman" displayName="KisuVoiceShaman" description="Replaces your empire voice with Shaman." game="GalacticAdventures" defaultChecked="false">KisuVoiceShaman.package</component>
+	<component unique="KisuVoiceTrader" displayName="KisuVoiceTrader" description="Replaces your empire voice with Trader." game="GalacticAdventures" defaultChecked="false">KisuVoiceTrader.package</component>
+	<component unique="KisuVoiceWarrior" displayName="KisuVoiceWarrior" description="Replaces your empire voice with Warrior." game="GalacticAdventures" defaultChecked="false">KisuVoiceWarrior.package</component>
+	<component unique="KisuVoiceZealot" displayName="KisuVoiceZealot" description="Replaces your empire voice with Zealot." game="GalacticAdventures" defaultChecked="false">KisuVoiceZealot.package</component>
+</mod>
